@@ -1,0 +1,23 @@
+body.dark {
+
+    color: rgb(238, 6, 6);
+    
+    background: rgb(244, 208, 6);
+    
+    }
+    
+    button {
+    
+    display: block;
+    
+    margin: 5px;
+    
+    }
+    
+    .textEntry {
+    
+    margin-top: 12px;
+    
+    margin-bottom: 15px;
+    
+    }
